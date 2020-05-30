@@ -1,0 +1,8 @@
+#img-logo-container {
+    justify-content: left;
+}
+
+img {
+    height: 20px;
+    width: 20px;
+}
